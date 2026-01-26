@@ -1,2 +1,5 @@
-# react-math
-A modern, accessible and minimalist page built with React + Vite. This app helps to practice math using two numbers generated randomly and the user has to type the sum of the two numbers.
+## React Math
+Simple math game built with React and Vite.
+
+**Stack:** React, Vite, CSS Modules  
+**Demo:** https://react-math.vercel.app
