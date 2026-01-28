@@ -2,4 +2,4 @@
 Simple math game built with React and Vite.
 
 **Stack:** React, Vite, CSS Modules  
-**Demo:** https://react-math.vercel.app
+**Demo:** https://react-math-steel.vercel.app/
